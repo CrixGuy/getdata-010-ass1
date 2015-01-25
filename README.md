@@ -26,13 +26,12 @@
 A detailed list of included files can be found below...
 #
 ###Included are:
-- run_analysis.R: A script file that runs an analysis of files from 
+- run_analysis.R: A script file that runs an analysis of files from.
 - ReadMe.md: This file.
 - CodeBook.md: A file describing the variables, and data used, as well as all transformations that were performed to clean up the data.  
-- A txt file containing the tidy data set that was created in the final step of the instructions
-#
-#
-#
+- A txt file containing the tidy data set that was created in the final step of the instructions.
+
+
 ## Dataset information
 #
 ###The data that is used for this project was found at:
